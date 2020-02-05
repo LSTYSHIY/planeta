@@ -1,0 +1,1 @@
+start /D"E:\Documents and Settings\Admin\Рабочий стол\Сервер клана\Сервер UFK" start.exe -runserver -min 1 -prioritet 1 -random 0 -crashsee 1 -list allmaps -game cstrike +hostname "***|U.F.K|***Server-klan" +map "de_dust2x2" +sv_lan 0 +ip 192.168.1.101 +maxplayers 32 +port 27015 +rcon_password "" -secure +exec listip.cfg
